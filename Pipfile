@@ -8,6 +8,7 @@ pytest = "*"
 pytest-mock = "*"
 
 [packages]
+hr = {editable = true,version = "*"}
 
 [requires]
 python_version = "3.6"

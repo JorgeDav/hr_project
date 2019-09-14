@@ -1,0 +1,1 @@
+[{"name": "ssm-user", "groups": [], "password": "!!"}, {"name": "ansible", "groups": [], "password": "!!"}, {"name": "jorge", "groups": ["wheel", "dev", "otro"], "password": "pass"}]
